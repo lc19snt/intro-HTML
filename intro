@@ -1,7 +1,13 @@
 <HTML>
 <HEAD>
 <HEAD>
-<FONT COLOR="red" style=font-size:40px;" FACE="Arial">Ceci est un exemple</FONT>
 <BODY>
+<FONT COLOR = "red" style = taille de la police: 40px; "FACE =" Arial "> Ceci est un exemple </ FONT>
 <BODY>
+<HTML/>
 <HTML>
+<HEAD>
+<BODY>
+<FONT COLOR = "blue" style = taille de la police: 20px; "FACE =" Arial "> bonjours </ FONT>
+<BODY>
+<HTML/>
